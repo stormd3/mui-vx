@@ -1,6 +1,6 @@
 import React from 'react';
-import Show from '../components/shownocode';
-import Pie from '../components/tiles/pie';
+import Show from '../../components/shownocode';
+import Pie from '../../components/tiles/pie';
 
 export default () => {
   return (

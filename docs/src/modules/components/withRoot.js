@@ -28,6 +28,14 @@ const pages = [
     title: 'Component API',
   },
   {
+    pathname: '/vx',
+    children: [
+      {
+        pathname: '/vx/pies',
+      },
+    ],
+  },
+  {
     pathname: '/discover-more',
     children: [
       {
