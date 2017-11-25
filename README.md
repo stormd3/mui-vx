@@ -1,8 +1,10 @@
-##### mui-vx
+### mui-vx
 
 This is a copy of
 [mui-drawer](https://github.com/stormasm/mui-drawer)
-with some additional vx pages to see if it works.
+with some additional
+[vx](https://github.com/hshoff/vx)
+pages to see if it works.
 
 The goal will be to do
 [vx-demo-mui](https://github.com/stormasm/vx-demo-mui)
