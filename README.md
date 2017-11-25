@@ -8,7 +8,9 @@ pages to see if it works.
 
 The goal will be to do
 [vx-demo-mui](https://github.com/stormasm/vx-demo-mui)
-by overlaying the following core files inside this
+by overlaying the following
+[core files](https://github.com/stormasm/mui-drawer#part-one)
+from **mui-drawer** inside this
 existing
 [vx-demo](https://github.com/stormasm/vx-demo)
 infrastructure.
